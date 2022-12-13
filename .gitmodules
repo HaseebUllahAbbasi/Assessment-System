@@ -7,3 +7,6 @@
 [submodule "front-end-assessment-module"]
 	path = front-end-assessment-module
 	url = https://github.com/HaseebUllahAbbasi/front-end-assessment-module.git
+[submodule "assessment-flutter-app"]
+	path = assessment-flutter-app
+	url = https://github.com/HaseebUllahAbbasi/assessment-flutter-app.git
